@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 884464858
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1442621004
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -602895796
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1442422666
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 361444104
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a\u0027",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 682269453
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/maycon-crz/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/maycon-crz/Library/Android/sdk/ndk/26.3.11579264 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/maycon-crz/Library/Android/sdk/ndk/26.3.11579264 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/maycon-crz/Library/Android/sdk/ndk/26.3.11579264/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/maycon-crz/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/build/app/intermediates/cxx/Debug/345m6w30/obj/arm64-v8a\" \\\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/build/app/intermediates/cxx/Debug/345m6w30/obj/arm64-v8a\" \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  \"-B/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a\" \\\n  -GNinja \\\n  -Wno-dev \\\n  --no-warn-unused-cli\n",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1557079518
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/maycon-crz/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/maycon-crz/Library/Android/sdk/ndk/26.3.11579264 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/maycon-crz/Library/Android/sdk/ndk/26.3.11579264 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/maycon-crz/Library/Android/sdk/ndk/26.3.11579264/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/maycon-crz/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/build/app/intermediates/cxx/Debug/345m6w30/obj/arm64-v8a\" \\\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/build/app/intermediates/cxx/Debug/345m6w30/obj/arm64-v8a\" \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  \"-B/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a\" \\\n  -GNinja \\\n  -Wno-dev \\\n  --no-warn-unused-cli\n",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1402260513
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a/compile_commands.json.bin existed but not /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a/compile_commands.json",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1066145931
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 49097853
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/345m6w30/arm64-v8a/metadata_generation_command.txt",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1141559766
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1987170937
+  }
+]

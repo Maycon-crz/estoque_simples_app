@@ -1,0 +1,2 @@
+/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/2x3f3n46/x86_64/CMakeFiles/edit_cache.dir
+/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/2x3f3n46/x86_64/CMakeFiles/rebuild_cache.dir

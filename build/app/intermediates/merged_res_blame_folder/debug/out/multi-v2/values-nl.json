@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.devpegasus_estoque_simples_app.estoque_simples_app-mergeDebugResources-24:/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "/Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,359,459,566,670,789",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "152,254,354,454,561,665,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

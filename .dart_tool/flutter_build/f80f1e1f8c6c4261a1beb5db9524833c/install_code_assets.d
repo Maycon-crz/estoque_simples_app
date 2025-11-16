@@ -1,0 +1,1 @@
+ /Users/maycon-crz/Library/Mobile\ Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/.dart_tool/flutter_build/f80f1e1f8c6c4261a1beb5db9524833c/native_assets.json: 

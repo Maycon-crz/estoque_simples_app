@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/maycon-crz/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/maycon-crz/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/2x3f3n46/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/maycon-crz/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/.cxx/Debug/2x3f3n46/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

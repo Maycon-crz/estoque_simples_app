@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:2:5-32:19
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+MERGED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/fcefa87d2b9b6a97637f2361ce32b745/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/fcefa87d2b9b6a97637f2361ce32b745/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+MERGED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/maycon-crz/.gradle/caches/transforms-3/c3f051891ba8a44b0b989881a1ac656e/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/cf9df09ef54ea28f67f4ffbb42be6617/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/maycon-crz/.gradle/caches/transforms-3/3a24881b646e4812ed8bf19274e53722/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/2c5620401f651e6a56c8e552162d3188/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/b1099f4856fb65e7db06e3cd176df577/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/4af791aa65c040586bfa8a891b0bef7a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/dc66ba20ff3a2db063a2e2a9f749766a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/3e48f0f0b24e5a58193738ea05c92b4a/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/2591265164f152a2bee3f0a0ef8d545d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/86f5b901e9a6b3f41518f29b1746af9d/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/4dc9aae3e76f2a1c71580d347463064c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/95fc99defdd852317ed3e6522d17d240/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/1b22f86deabf4ddd7208200247e661ab/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/maycon-crz/.gradle/caches/transforms-3/bd3864777a05a088a6ca2576e29bf357/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/maycon-crz/.gradle/caches/transforms-3/7adc62332105e5729c6cb6d07167bcad/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/14964ae5e5012576f51c2ebd7d564059/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/ae27acd5b503c989b16e605310037a83/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/fcefa87d2b9b6a97637f2361ce32b745/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/0985ba4c3c3974cd5cb4dd9b00dc6870/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/f38b6bb5637c4ccda41787a6536d3c80/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/maycon-crz/.gradle/caches/transforms-3/3fcb247c7e523d96a3a9d3483dc687bb/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:38:5-43:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:39:9-42:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:40:13-72
+	android:name
+		ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:40:21-70
+data
+ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:41:13-50
+	android:mimeType
+		ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/main/AndroidManifest.xml:41:19-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-sdk
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/maycon-crz/.gradle/caches/transforms-3/c3f051891ba8a44b0b989881a1ac656e/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/maycon-crz/.gradle/caches/transforms-3/c3f051891ba8a44b0b989881a1ac656e/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/cf9df09ef54ea28f67f4ffbb42be6617/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/cf9df09ef54ea28f67f4ffbb42be6617/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/maycon-crz/.gradle/caches/transforms-3/3a24881b646e4812ed8bf19274e53722/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/maycon-crz/.gradle/caches/transforms-3/3a24881b646e4812ed8bf19274e53722/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/2c5620401f651e6a56c8e552162d3188/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/2c5620401f651e6a56c8e552162d3188/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/b1099f4856fb65e7db06e3cd176df577/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/b1099f4856fb65e7db06e3cd176df577/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/4af791aa65c040586bfa8a891b0bef7a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/4af791aa65c040586bfa8a891b0bef7a/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/dc66ba20ff3a2db063a2e2a9f749766a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/dc66ba20ff3a2db063a2e2a9f749766a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/3e48f0f0b24e5a58193738ea05c92b4a/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/3e48f0f0b24e5a58193738ea05c92b4a/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/2591265164f152a2bee3f0a0ef8d545d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/2591265164f152a2bee3f0a0ef8d545d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/86f5b901e9a6b3f41518f29b1746af9d/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/86f5b901e9a6b3f41518f29b1746af9d/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/4dc9aae3e76f2a1c71580d347463064c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/4dc9aae3e76f2a1c71580d347463064c/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/95fc99defdd852317ed3e6522d17d240/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/95fc99defdd852317ed3e6522d17d240/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/1b22f86deabf4ddd7208200247e661ab/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/1b22f86deabf4ddd7208200247e661ab/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/maycon-crz/.gradle/caches/transforms-3/bd3864777a05a088a6ca2576e29bf357/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/maycon-crz/.gradle/caches/transforms-3/bd3864777a05a088a6ca2576e29bf357/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/maycon-crz/.gradle/caches/transforms-3/7adc62332105e5729c6cb6d07167bcad/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/maycon-crz/.gradle/caches/transforms-3/7adc62332105e5729c6cb6d07167bcad/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/14964ae5e5012576f51c2ebd7d564059/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/14964ae5e5012576f51c2ebd7d564059/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/ae27acd5b503c989b16e605310037a83/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/ae27acd5b503c989b16e605310037a83/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/fcefa87d2b9b6a97637f2361ce32b745/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/fcefa87d2b9b6a97637f2361ce32b745/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/0985ba4c3c3974cd5cb4dd9b00dc6870/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/0985ba4c3c3974cd5cb4dd9b00dc6870/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/f38b6bb5637c4ccda41787a6536d3c80/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/maycon-crz/.gradle/caches/transforms-3/f38b6bb5637c4ccda41787a6536d3c80/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/maycon-crz/.gradle/caches/transforms-3/3fcb247c7e523d96a3a9d3483dc687bb/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/maycon-crz/.gradle/caches/transforms-3/3fcb247c7e523d96a3a9d3483dc687bb/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maycon-crz/Library/Mobile Documents/com~apple~CloudDocs/Documents/src/homologacao_devpegasus_apps/estoque_simples_app/android/app/src/debug/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/maycon-crz/.gradle/caches/transforms-3/fdbb8ae9d8903b17130e21b100715349/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.devpegasus_estoque_simples_app.estoque_simples_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.devpegasus_estoque_simples_app.estoque_simples_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/maycon-crz/.gradle/caches/transforms-3/780862ad0268dbbf939e5a5698737a6f/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maycon-crz/.gradle/caches/transforms-3/87c74b06024b2a5d6dc21562b605ba59/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/maycon-crz/.gradle/caches/transforms-3/fcb233674b4fbbcfb94d75e949291a90/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/maycon-crz/.gradle/caches/transforms-3/7c4ee9316879ecdbcd95bf40b73d7186/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

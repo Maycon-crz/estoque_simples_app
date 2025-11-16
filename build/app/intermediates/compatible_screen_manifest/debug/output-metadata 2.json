@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.devpegasus_estoque_simples_app.estoque_simples_app",
+  "variantName": "debug",
+  "elements": []
+}
